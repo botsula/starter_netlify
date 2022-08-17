@@ -7,3 +7,8 @@
   YARN_FLAGS = "--no-ignore-optional"
 
 
+[[redirects]]
+  from = "https://frabjous-kheer-8cd29d.netlify.app/*"
+  to = "https://www.help.propelleraero.com/:splat"
+  status = 200
+  force = true
